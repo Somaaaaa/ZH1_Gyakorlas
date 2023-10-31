@@ -1,0 +1,8 @@
+C:\Users\rille\source\repos\ZH_Gyakorlas\ZH_Gyakorlas\bin\Debug\ZH_Gyakorlas.exe.config
+C:\Users\rille\source\repos\ZH_Gyakorlas\ZH_Gyakorlas\bin\Debug\ZH_Gyakorlas.exe
+C:\Users\rille\source\repos\ZH_Gyakorlas\ZH_Gyakorlas\bin\Debug\ZH_Gyakorlas.pdb
+C:\Users\rille\source\repos\ZH_Gyakorlas\ZH_Gyakorlas\obj\Debug\ZH_Gyakorlas.csproj.AssemblyReference.cache
+C:\Users\rille\source\repos\ZH_Gyakorlas\ZH_Gyakorlas\obj\Debug\ZH_Gyakorlas.csproj.SuggestedBindingRedirects.cache
+C:\Users\rille\source\repos\ZH_Gyakorlas\ZH_Gyakorlas\obj\Debug\ZH_Gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\rille\source\repos\ZH_Gyakorlas\ZH_Gyakorlas\obj\Debug\ZH_Gyakorlas.exe
+C:\Users\rille\source\repos\ZH_Gyakorlas\ZH_Gyakorlas\obj\Debug\ZH_Gyakorlas.pdb
